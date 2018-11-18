@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF6BB89F-AC07-41D1-9788-6C6795A84325}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>demoproject</RootNamespace>
+    <AssemblyName>demoproject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achievement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Achievement.Designer.cs">
+      <DependentUpon>Achievement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminCustomizeEve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminCustomizeEve.designer.cs">
+      <DependentUpon>AdminCustomizeEve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMemberApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMemberApproval.Designer.cs">
+      <DependentUpon>AdminMemberApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUpcomingEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUpcomingEvent.Designer.cs">
+      <DependentUpon>AdminUpcomingEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdPreEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdPreEvents.Designer.cs">
+      <DependentUpon>AdPreEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cal.Designer.cs">
+      <DependentUpon>Cal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changepass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changepass.Designer.cs">
+      <DependentUpon>changepass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckSuggestionBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckSuggestionBox.Designer.cs">
+      <DependentUpon>CheckSuggestionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customize.Designer.cs">
+      <DependentUpon>Customize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IEEEAIUB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IEEEAIUB.Designer.cs">
+      <DependentUpon>IEEEAIUB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreviousEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreviousEvent.Designer.cs">
+      <DependentUpon>PreviousEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YourProfileInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YourProfileInfo.Designer.cs">
+      <DependentUpon>YourProfileInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="FHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHome.designer.cs">
+      <DependentUpon>FHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLogin.designer.cs">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSignUp.designer.cs">
+      <DependentUpon>FSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUserProfile.Designer.cs">
+      <DependentUpon>FUserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MembersInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MembersInfo.Designer.cs">
+      <DependentUpon>MembersInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Suggestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggestion.Designer.cs">
+      <DependentUpon>Suggestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upcoming Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcoming Events.Designer.cs">
+      <DependentUpon>Upcoming Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achievement.resx">
+      <DependentUpon>Achievement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminCustomizeEve.resx">
+      <DependentUpon>AdminCustomizeEve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMemberApproval.resx">
+      <DependentUpon>AdminMemberApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUpcomingEvent.resx">
+      <DependentUpon>AdminUpcomingEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdPreEvents.resx">
+      <DependentUpon>AdPreEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cal.resx">
+      <DependentUpon>Cal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changepass.resx">
+      <DependentUpon>changepass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckSuggestionBox.resx">
+      <DependentUpon>CheckSuggestionBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customize.resx">
+      <DependentUpon>Customize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IEEEAIUB.resx">
+      <DependentUpon>IEEEAIUB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviousEvent.resx">
+      <DependentUpon>PreviousEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YourProfileInfo.resx">
+      <DependentUpon>YourProfileInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHome.resx">
+      <DependentUpon>FHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLogin.resx">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSignUp.resx">
+      <DependentUpon>FSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUserProfile.resx">
+      <DependentUpon>FUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MembersInfo.resx">
+      <DependentUpon>MembersInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Suggestion.resx">
+      <DependentUpon>Suggestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcoming Events.resx">
+      <DependentUpon>Upcoming Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\arrow.png" />
+    <None Include="Resources\contact.jpg" />
+    <None Include="Resources\about.jpg" />
+    <None Include="Resources\ieeaiub.jpg" />
+    <None Include="Resources\adminpassward.jpg" />
+    <None Include="Resources\adminprofile.jpg" />
+    <None Include="Resources\check suggestion.jpg" />
+    <None Include="Resources\membership aprvl.jpg" />
+    <None Include="Resources\member database.jpg" />
+    <None Include="Resources\previous.jpg" />
+    <None Include="Resources\upcoming1.jpg" />
+    <None Include="Resources\customize events.jpg" />
+    <None Include="Resources\0.1.jpg" />
+    <None Include="Resources\extra.jpg" />
+    <None Include="Resources\upcoming.jpg" />
+    <None Include="Resources\up2.png" />
+    <None Include="Resources\up1.png" />
+    <None Include="Resources\sgsn.jpg" />
+    <None Include="Resources\suggestion.jpg" />
+    <None Include="Resources\etao kom1.jpg" />
+    <None Include="Resources\proinfo.jpg" />
+    <None Include="Resources\chemistry-kids-science-1920x1200-wallpaper165473 copy2.jpg" />
+    <None Include="Resources\etao kom - Copy.jpg" />
+    <None Include="Resources\chemistry-kids-science-1920x1200-wallpaper165473 copy1.jpg" />
+    <None Include="Resources\etao kom.jpg" />
+    <None Include="Resources\full.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\login-screen - Copy.jpg" />
+    <None Include="Resources\chemistry-kids-science-1920x1200-wallpaper165473 copy.jpg" />
+    <None Include="Resources\login-screen1.png" />
+    <None Include="Resources\av.jpg" />
+    <None Include="Resources\chemistry-kids-science-1920x1200-wallpaper165473.jpg" />
+    <None Include="Resources\login-screen.png" />
+    <None Include="Resources\22.png" />
+    <None Include="Resources\login1.jpg" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\abstract.jpg" />
+    <None Include="Resources\Untitled-11.jpg" />
+    <None Include="Resources\hp4 copy.jpg" />
+    <None Include="Resources\hp3.jpg" />
+    <None Include="Resources\noms - Copy copy - Copy - Copy.jpg" />
+    <None Include="Resources\noms - Copy copy.jpg" />
+    <None Include="Resources\noms - Copy copy - Copy.jpg" />
+    <None Include="Resources\hp2.jpg" />
+    <None Include="Resources\Untitled-1.jpg" />
+    <None Include="Resources\noms.jpg" />
+    <None Include="Resources\1.ie.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\21.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1280px-IEEE_logo.svg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

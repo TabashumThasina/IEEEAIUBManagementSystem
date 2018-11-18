@@ -1,0 +1,270 @@
+D:\Course Material\c#\demoproject\demoproject\bin\Debug\demoproject.exe.config
+D:\Course Material\c#\demoproject\demoproject\bin\Debug\demoproject.exe
+D:\Course Material\c#\demoproject\demoproject\bin\Debug\demoproject.pdb
+D:\Course Material\c#\demoproject\demoproject\bin\Debug\MetroFramework.dll
+D:\Course Material\c#\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.exe
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.pdb
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Dashboard.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.EventInfo.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+D:\Course Material\c#\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\demoproject.exe.config
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.exe
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.pdb
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\demoproject.exe
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\demoproject.pdb
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\MetroFramework.dll
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\mscorlib.dll
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\System.Net.Http.dll
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\System.Net.Http.xml
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\normidna.nlp
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\normnfc.nlp
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\normnfd.nlp
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\normnfkc.nlp
+F:\IEEE\demoproject\demoproject\demoproject\bin\Debug\normnfkd.nlp
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Dashboard.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.EventInfo.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+F:\IEEE\demoproject\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+D:\Course Material\c#\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+D:\Course Material\c#\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+D:\Course Material\c#\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+D:\Course Material\c#\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+D:\Course Material\c#\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Dashboard.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.EventInfo.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+D:\Course Material\c#\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\mscorlib.dll
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.dll
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.xml
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\normidna.nlp
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\normnfc.nlp
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\normnfd.nlp
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\normnfkc.nlp
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\bin\Debug\normnfkd.nlp
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Dashboard.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.EventInfo.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+C:\Users\Aishwarja\Downloads\C3\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\mscorlib.dll
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.dll
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.xml
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\normidna.nlp
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\normnfc.nlp
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\normnfd.nlp
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\normnfkc.nlp
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\bin\Debug\normnfkd.nlp
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.EventInfo.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.YourProfileInfo.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Customize.resources
+F:\IEEE\demoproject\D3\C3\demoproject\demoproject\obj\Debug\demoproject.PreviousEvent.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\mscorlib.dll
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.dll
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\System.Net.Http.xml
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\normidna.nlp
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\normnfc.nlp
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\normnfd.nlp
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\normnfkc.nlp
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\bin\Debug\normnfkd.nlp
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Customize.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.PreviousEvent.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.YourProfileInfo.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdminCustomizeEve.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdminUpcomingEvent.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdPreEvents.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdminMemberApproval.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdminProfile.resources
+F:\IEEE\demoproject\F3 Now\D3\C3\demoproject\demoproject\obj\Debug\demoproject.AdminPassword.resources
+F:\IEEE\demoproject\F3 Now\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+F:\IEEE\demoproject\F3 Now\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+F:\IEEE\demoproject\F3 Now\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminCustomizeEve.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminMemberApproval.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminUpcomingEvent.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdPreEvents.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Customize.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.PreviousEvent.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.YourProfileInfo.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+C:\Users\user\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminCustomizeEve.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminMemberApproval.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminUpcomingEvent.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdPreEvents.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Customize.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.PreviousEvent.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.YourProfileInfo.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+C:\Users\Neo\Desktop\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe.config
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.exe
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.pdb
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.exe
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\bin\Debug\demoproject.pdb
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.dll
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csprojResolveAssemblyReference.cache
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Admin.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminCustomizeEve.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminMemberApproval.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdminUpcomingEvent.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.AdPreEvents.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Cal.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.changepass.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.CheckSuggestionBox.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Customize.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.PreviousEvent.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.YourProfileInfo.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FHome.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FLogin.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FSignUp.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.FUserProfile.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.MembersInfo.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Properties.Resources.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Suggestion.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Upcoming_Events.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.csproj.GenerateResource.Cache
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.About.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.IEEEAIUB.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Contact.resources
+C:\Users\Neo\Desktop\final\C# Project Design\C3\demoproject\demoproject\obj\Debug\demoproject.Achievement.resources
